@@ -2,7 +2,7 @@
 
 # Employee Management v2
 
-This work is developed based on the employee management project of our classmates - Carlos Velilla Fernandez and Gonzalo García Arahuetes. Beside maintaining the style and presentation of the project, we have refactorized the application logic using MVC pattern, mySQL and OOP.
+This work is developed based on the employee management project of our classmates - Carlos Velilla Fernandez and Gonzalo García Arahuetes. Beside maintaining the style and presentation of the project, we have refactorized the application logic using MVC pattern, mySQL, PHP and OOP.
 
 The application allows users to perform CRUD operations over an employee database, and shows the data in table customized with jsGrid library. Besides, the application also makes use of user sessions to persist state information between page requests, and encrypted passwords to protect the privacy and safety of user data.
 
